@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vishal/static/css/main.f4484e53.css",
+    "main.js": "/Vishal/static/js/main.3dffdb3b.js",
+    "index.html": "/Vishal/index.html",
+    "main.f4484e53.css.map": "/Vishal/static/css/main.f4484e53.css.map",
+    "main.3dffdb3b.js.map": "/Vishal/static/js/main.3dffdb3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4484e53.css",
+    "static/js/main.3dffdb3b.js"
+  ]
+}
